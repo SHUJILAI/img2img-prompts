@@ -1,0 +1,1272 @@
+{
+  "meta": {
+    "title": "Curated GPT Image 2 (image2 / gpt-image-2) Prompts — Full 100",
+    "version": "3.0.0",
+    "model": "gpt-image-2",
+    "model_aliases": [
+      "GPT Image 2",
+      "ChatGPT Images 2.0",
+      "image2"
+    ],
+    "released": "2026-04-21",
+    "updated": "2026-05-15",
+    "count": 100,
+    "description": "100 ready-to-use prompts for OpenAI gpt-image-2 (released 2026-04-21). Covers viral and practical examples from major prompt-sharing communities. Optimized for image2 strengths: native 2K/4K, pixel-perfect multi-script text rendering (Chinese / Japanese / English), accurate UI mockups, complex multi-element composition, character consistency.",
+    "sources": [
+      "https://github.com/Anil-matcha/Awesome-GPT-Image-2-API-Prompts",
+      "https://github.com/ZeroLu/awesome-gpt-image",
+      "https://github.com/YouMind-OpenLab/awesome-gpt-image-2",
+      "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts",
+      "https://github.com/freestylefly/awesome-gpt-image-2",
+      "https://www.imagine.art/blogs/gpt-image-2-prompt-guide",
+      "https://deepdreamgenerator.com/blog/gpt-image-2-best-prompts",
+      "https://evolink.ai/gpt-image-2-prompts",
+      "https://pixverse.ai/en/blog/gpt-image-2-review-and-prompt-guide"
+    ],
+    "categories": [
+      "ad_creative",
+      "album_cover",
+      "amateur_realistic",
+      "apparel_mockup",
+      "billboard_mockup",
+      "book_cover",
+      "chat_screenshot",
+      "chinese_commercial",
+      "comic_manga",
+      "diorama_3d",
+      "drone_aerial",
+      "game_screenshot",
+      "ghibli_style",
+      "illustration_style",
+      "infographic_diagram",
+      "logo_branding",
+      "magazine_cover",
+      "merch_collectible",
+      "microscope_macro",
+      "movie_poster",
+      "packaging_design",
+      "photorealistic_portrait",
+      "poster_typography",
+      "product_photography",
+      "recipe_card",
+      "restaurant_menu",
+      "search_screenshot",
+      "stamp_postcard",
+      "subway_map",
+      "ticket_stub",
+      "ui_mockup",
+      "voxel_pixel_art",
+      "wes_anderson"
+    ],
+    "core_tips": [
+      "Front-load the subject in the first 30% of the prompt for highest weight.",
+      "Wrap any in-image text in straight double quotes for >95% rendering accuracy.",
+      "Specify lens (e.g. 35mm, 85mm), lighting (e.g. backlit, 3200K) and aspect ratio.",
+      "Avoid filler adjectives (8K, masterpiece) — use factual visual descriptions.",
+      "When editing an existing image, restate invariants ('same character, same outfit') to prevent drift."
+    ]
+  },
+  "prompts": [
+    {
+      "id": 1,
+      "title": "Multilingual Vintage Travel Poster — Kyoto",
+      "category": "poster_typography",
+      "tags": [
+        "poster",
+        "vintage",
+        "japanese",
+        "multilingual"
+      ],
+      "aspect_ratio": "2:3",
+      "prompt": "A vintage travel poster for Kyoto in spring, advertising \"BLOSSOM // KYOTO 2026\". Top half: a stylized art-deco illustration of Mount Fuji silhouetted behind cascading cherry blossoms in pink, peach and cream tones. Bottom half: clean off-white panel with the headline \"BLOSSOM\" in tall serif uppercase, set kerned wide. Below it, a smaller line in elegant Japanese kanji reading \"京都の春\" (Kyoto no Haru — Kyoto Spring), perfectly legible. Tiny tagline beneath in lowercase: \"april — may // shinkansen lines now open\". Slight halftone print texture, faded edges, like a 1960s JNR rail poster."
+    },
+    {
+      "id": 2,
+      "title": "Boston Spring 2026 City Poster",
+      "category": "poster_typography",
+      "tags": [
+        "city-poster",
+        "editorial",
+        "9:16"
+      ],
+      "aspect_ratio": "9:16",
+      "prompt": "Striking Spring 2026 city poster for Boston with elegant celebratory mood and bold contemporary design. On clean off-white textured background with generous negative space, place a miniature single sculler in the lower-right corner rowing across a narrow ribbon of reflective water. Let the wake curve upward and gradually transform into the Charles River, then into a dreamlike hand-painted panorama of Boston featuring the Back Bay skyline, Beacon Hill brownstones, Acorn Street, Boston Public Garden, Swan Boats, the Zakim Bridge, harbor ferries, and historic brick architecture. Add soft morning fog, golden spring light, subtle crimson and gold festive accents, layered depth, and premium editorial typography reading \"SPRING 2026\" with a vertical slogan \"BOSTON, A CITY OF RIVER, MEMORY, AND INVENTION\". Vertical poster ratio, polished graphic-design finish."
+    },
+    {
+      "id": 3,
+      "title": "BUILD 2026 Tech Conference Banner",
+      "category": "poster_typography",
+      "tags": [
+        "banner",
+        "tech",
+        "conference"
+      ],
+      "aspect_ratio": "16:9",
+      "prompt": "A digital event banner for a tech conference called \"BUILD 2026\". Dark grey background with a subtle geometric grid pattern, faint scan lines and a soft cyan glow in the top-right. Title \"BUILD 2026\" in oversized white bold sans-serif, left-aligned, 60% of the banner width. Subtitle \"THE FUTURE OF AGENTIC SOFTWARE\" in thin uppercase, kerned wide, in cyan. Lower-right: dates \"OCT 14 – 16 · SAN FRANCISCO\" and a small registration QR code. 16:9 aspect ratio. Crisp text, no logo drift."
+    },
+    {
+      "id": 4,
+      "title": "Coffee Shop A2 QR Poster",
+      "category": "poster_typography",
+      "tags": [
+        "poster",
+        "minimal",
+        "qr"
+      ],
+      "aspect_ratio": "2:3",
+      "prompt": "A modern minimalist coffee shop poster, A2 portrait. Cream background, single hand-drawn line illustration of a pour-over kettle and dripper centered upper third. Headline \"SLOW POUR / SLOW MORNING\" in mixed serif and italic, two lines. Mid-poster body text in small sans: \"Single origin Ethiopia Yirgacheffe — bright, floral, citrus. Brewed every morning from 7:30.\" Bottom-right corner: a real scannable QR code labeled \"MENU\". Subtle paper grain. No watermark."
+    },
+    {
+      "id": 5,
+      "title": "Detective Investigation Board",
+      "category": "poster_typography",
+      "tags": [
+        "cinematic",
+        "noir",
+        "props"
+      ],
+      "aspect_ratio": "3:2",
+      "prompt": "A cinematic photograph of a 1970s detective's investigation board pinned to a dim office wall. Cork board, red and black yarn connecting Polaroid photos of suspects, handwritten index cards reading \"MOTIVE?\", \"ALIBI 22:14\", \"GREEN SEDAN\", a folded newspaper headline \"TOWN SHAKEN BY MURDER\", a coffee-stained map of the city with a circled location, a desk lamp casting harsh side light, smoke drifting from an ashtray, shallow depth of field. Slight film grain, warm tungsten color cast. All handwritten text legible."
+    },
+    {
+      "id": 6,
+      "title": "Crypto Trading Dashboard Mockup",
+      "category": "ui_mockup",
+      "tags": [
+        "dashboard",
+        "dark-mode",
+        "fintech"
+      ],
+      "aspect_ratio": "16:10",
+      "prompt": "A photorealistic screenshot mockup of a dark-mode crypto trading dashboard at 1440p. Left sidebar with 8 navigation items (\"Dashboard\", \"Markets\", \"Portfolio\", \"Orders\", \"Funding\", \"Pro\", \"News\", \"Settings\"), each with a small monochrome icon. Top header: search bar, BTC ticker showing \"$74,218.40 +2.13%\", account avatar. Main panel: candlestick chart \"BTC / USDT — 1h\" with green/red wicks, volume bars below, technical overlays (EMA 50, EMA 200), order book on the right with bids in green and asks in red, recent trades feed at the bottom. All numbers consistent. Crisp UI typography, real shadows, no logo drift."
+    },
+    {
+      "id": 7,
+      "title": "Personal Finance App — Luma",
+      "category": "ui_mockup",
+      "tags": [
+        "mobile-ui",
+        "ios",
+        "finance"
+      ],
+      "aspect_ratio": "9:19.5",
+      "prompt": "A mobile UI mockup of a personal finance iOS app called \"Luma\", shown inside an iPhone 15 device frame. Status bar 9:41, full battery, 5G. Top: greeting \"Good morning, Maya\" with a small profile pill. Hero card with rounded corners showing \"Total Balance · $12,840.27\" and a subtle gradient. Below: a 7-day spending sparkline. Three quick-action chips: \"Transfer\", \"Pay\", \"Invest\". Section \"Recent activity\" listing 4 realistic transactions (e.g. \"Whole Foods · -$48.12\", \"Spotify · -$10.99\", \"Stripe Payout · +$1,200.00\"). Bottom tab bar: Home / Transactions / Cards / Goals / Profile. Soft drop shadows, system font, generous whitespace."
+    },
+    {
+      "id": 8,
+      "title": "E-commerce Analytics Dashboard",
+      "category": "ui_mockup",
+      "tags": [
+        "saas",
+        "dashboard",
+        "light-mode"
+      ],
+      "aspect_ratio": "16:10",
+      "prompt": "A photorealistic screenshot of a SaaS e-commerce analytics dashboard in light mode at 1440p. Top KPI row of four cards: \"Revenue · $84,210 · +12.4%\", \"Orders · 1,238 · +8.1%\", \"Avg Order · $68.02\", \"Conversion · 3.42%\". Center: a smooth multi-line area chart titled \"Revenue, last 30 days\" with two series (this period, previous period) and a tooltip pinned on a peak. Right column: \"Top products\" table with thumbnails, names, units sold and revenue. Bottom: traffic source donut chart with legend (Direct, Organic, Paid, Email, Social). Inter typeface, subtle shadows, 8px grid alignment."
+    },
+    {
+      "id": 9,
+      "title": "Hi-Fi Chinese E-commerce App Home",
+      "category": "chinese_commercial",
+      "tags": [
+        "mobile-ui",
+        "chinese",
+        "ecommerce"
+      ],
+      "aspect_ratio": "9:19.5",
+      "prompt": "Generate a high-fidelity mobile e-commerce app homepage screenshot inspired by mainstream Chinese e-commerce apps in 2026. Status bar with 9:41, 5G, full battery. Top bar: city selector \"杭州\" on the left, rounded search box centered with placeholder \"搜索耳机、咖啡机、运动鞋\", message and scan icons on the right. Horizontal category tabs: \"推荐 数码 家电 服饰 美妆 食品 运动 家居\". Top promo carousel with the banner \"618 预售开启\" and a tag \"每满300减50\". 10-icon function grid with labels \"超市 百亿补贴 秒杀 直播 充值中心 到家 领券 品牌馆 全球购 排行榜\". Flash-sale module \"限时秒杀\" with a countdown 02:14:36 and three product cards. \"猜你喜欢\" two-column waterfall with 6 product cards (image, title, price, sales tag). Bottom tab bar: \"首页 分类 购物车 消息 我的\". All Chinese text crisp and readable, realistic spacing, shadows and dividers."
+    },
+    {
+      "id": 10,
+      "title": "Museum-Style Hanfu Infographic",
+      "category": "chinese_commercial",
+      "tags": [
+        "chinese",
+        "infographic",
+        "museum"
+      ],
+      "aspect_ratio": "2:3",
+      "prompt": "请根据「汉服」生成一张博物馆图鉴式中文拆解信息图。整张图要兼具真实写实主视觉、结构拆解、中文标注、材质说明、纹样寓意、色彩含义和核心特征总结。整体风格为国家博物馆展板、历史服饰图鉴、文博专题信息图。背景采用米白与绢纸白质感。版式固定为：顶部中文主标题「汉服」加副标题「中华传统服饰图鉴」；左侧结构拆解区，中文引线标注关键部件（交领、广袖、襦、裙、腰带、蔽膝）；右上材质与工艺区（蚕丝、织锦、刺绣）；右中纹样、色彩与寓意区；底部穿着顺序流程图。所有文字必须为简体中文，清晰、规整、可读，不要乱码、错字。"
+    },
+    {
+      "id": 11,
+      "title": "WeChat Public Account Cover",
+      "category": "chinese_commercial",
+      "tags": [
+        "wechat",
+        "cover",
+        "chinese-text"
+      ],
+      "aspect_ratio": "2.35:1",
+      "prompt": "生成一张微信公众号封面图，主题是「AI Agent 实战指南」。画面为现代科技风格，背景有 AI 芯片轮廓、聊天气泡、代码片段，蓝紫色渐变光效。图片中必须清晰出现中文主标题：「AI Agent 实战指南」字号最大、居中偏左；副标题：「从零到上线，30 天让 LLM 真正干活」位于主标题下方；右下角小字「公众号 · 智能体周刊」。字体干净、清晰、无错别字、无乱码，适合公众号封面，留白合理，高级感强。"
+    },
+    {
+      "id": 12,
+      "title": "618 E-commerce White Background Hero",
+      "category": "chinese_commercial",
+      "tags": [
+        "ecommerce",
+        "white-bg",
+        "hero"
+      ],
+      "aspect_ratio": "1:1",
+      "prompt": "随手拍一个无线降噪耳机充电盒，帮我做成白底电商主图，重新打光，产品更精致。背景纯白，柔光，阴影自然且短而锐利，产品主体居中，反光高光提亮，材质质感明显提升。左上角添加一个红色圆形角标，里面写「618 直降」和小字「立省 ¥300」。右下角加一行小字「现货 · 顺丰发货」。整体符合天猫/京东主图规范，无水印，无多余装饰。"
+    },
+    {
+      "id": 13,
+      "title": "Holographic Trading Card",
+      "category": "merch_collectible",
+      "tags": [
+        "card",
+        "holographic",
+        "collectible"
+      ],
+      "aspect_ratio": "3:4",
+      "prompt": "A premium holographic trading card, vertical 3:4 layout. Center: a cyberpunk samurai in a dynamic forward-leaning pose, vibrant cinematic backlighting in cyan and magenta. Border: ornate gold filigree with rune-like icons in the four corners. Top banner reads \"LEGENDARY\" in bold serif caps. Bottom panel: name plate \"REI · NIGHTBLADE\", three small stat icons (Power 92 / Speed 88 / Magic 71) with numeric values. Holographic foil effect with iridescent rainbow streaks, slight grain, soft studio backdrop. Crisp text, no logo drift."
+    },
+    {
+      "id": 14,
+      "title": "Action Figure Blister Pack",
+      "category": "merch_collectible",
+      "tags": [
+        "figure",
+        "blister",
+        "merch"
+      ],
+      "aspect_ratio": "3:4",
+      "prompt": "A stylized 6-inch action figure of a young female astronaut, sealed inside a premium plastic blister pack, photographed straight-on. The figure stands in a confident pose with a cracked helmet under one arm and a small flag in the other hand. Cardboard backing with the headline \"COSMIC EXPLORERS · WAVE 02\" in retro space-age font, character name plaque \"CDR. NOVA\" in the lower band, three accessory cutouts on the right (helmet, flag, mini rover). Studio softbox lighting, high-detail plastic texture, glossy bubble reflections, clean white background."
+    },
+    {
+      "id": 15,
+      "title": "Isometric Miniature Workshop",
+      "category": "illustration_style",
+      "tags": [
+        "isometric",
+        "3d",
+        "saas"
+      ],
+      "aspect_ratio": "1:1",
+      "prompt": "A 45° top-down isometric miniature 3D scene of a tiny indie-developer workshop diorama on a wooden display base. Soft refined PBR textures, realistic materials, clean unified composition, minimalist aesthetic. Tiny props integrated into the architecture: a glowing laptop with a deploy progress bar, a stack of books labelled \"AGENTS\", \"SDK\" and \"DESIGN\", a coffee mug, a plant. Studio softbox lighting, subtle ambient occlusion, pastel palette dominated by sage green and warm cream. Square 1:1 frame, centered subject, plenty of negative space."
+    },
+    {
+      "id": 16,
+      "title": "6-Panel Retro Superhero Comic",
+      "category": "comic_manga",
+      "tags": [
+        "comic",
+        "80s",
+        "narrative"
+      ],
+      "aspect_ratio": "16:9",
+      "prompt": "A 6-panel retro American superhero comic page in a 2×3 grid, drawn in 1980s Marvel/DC style: bold black outlines, flat primary colors (red, blue, yellow), Ben-Day halftone shading, slight aged paper texture, thin black panel borders with white gutters. Panel 1: female hero STARDUST in red cape and blue suit stands heroically. Caption: \"METRO CITY — DUSK.\" Speech: \"Trouble in the East District… time to fly!\" Panel 2: villain PROFESSOR GRIM beside a glowing doomsday device. Caption: \"MEANWHILE…\" Speech: \"In sixty seconds, this city will BOW to me!\" Panel 3: Stardust bursts through a window. Large SFX: \"KRA-KOOM!\" Panel 4: Stardust punches the villain. Speech: \"Not on my watch, Professor!\" Panel 5: villain tied up, small robot dog beside Stardust. Speech: \"Looks like class is dismissed, Doc.\" Panel 6: Stardust on a skyscraper overlooking the city. Caption: \"CONTINUED NEXT ISSUE!\" Consistent character design, classic all-caps comic lettering, vibrant inks. 16:9. No watermark."
+    },
+    {
+      "id": 17,
+      "title": "Cyberpunk Noir Manga Page",
+      "category": "comic_manga",
+      "tags": [
+        "manga",
+        "noir",
+        "bw"
+      ],
+      "aspect_ratio": "2:3",
+      "prompt": "A 2x2 black-and-white manga page in the style of late-90s seinen noir, screen-tone shading, sharp ink linework, dramatic angles. Panel 1 (wide top): rain-soaked neon-lit alley, lone detective in a long coat, narration box \"Tokyo, 03:14. The case wasn't supposed to find me.\" Panel 2: close-up of detective's eyes under a wet brim hat, speech bubble \"…So why is it on my desk?\". Panel 3: he kicks open a metal door, SFX \"DON!\". Panel 4 (wide bottom): silhouette of a corporate suit at a window overlooking a megacity, speech bubble \"You should have stayed asleep, detective.\" Right-to-left reading order, vertical sound effects in katakana, deep blacks, fine halftone."
+    },
+    {
+      "id": 18,
+      "title": "Hitman in OpenAI HQ",
+      "category": "game_screenshot",
+      "tags": [
+        "game",
+        "stealth",
+        "screenshot"
+      ],
+      "aspect_ratio": "16:9",
+      "prompt": "An in-game screenshot from a Hitman-style stealth game. The level is set inside the OpenAI HQ in San Francisco, sleek glass walls, exposed concrete, branded meeting rooms named \"GPT-6\", \"Sora\", \"Voice\". Agent 47 in a dark suit and red tie is hiding behind a meeting room glass partition watching two engineers walk past with laptops. Top-left HUD: minimap, mission objective \"STEAL GPT-6 WEIGHTS · NO WITNESSES\", suspicion meter low. Bottom-right: silenced pistol icon, fiber wire icon. Cinematic teal-and-orange grade, depth of field on the foreground plant, console-game look."
+    },
+    {
+      "id": 19,
+      "title": "GTA 6 Beach Walk Screenshot",
+      "category": "game_screenshot",
+      "tags": [
+        "game",
+        "open-world",
+        "ultra-realistic"
+      ],
+      "aspect_ratio": "16:9",
+      "prompt": "GTA 6 in-game footage, very detailed, very realistic. Close-up tracking shot taken from a stationary 4K monitor of a young woman in a tank top and shorts walking along a Vice City beach with her golden retriever on a leash. Bright morning light, palm trees, neon hotel signs in the soft-focus background, jet-skis in the bay. Top-left HUD: minimap, health bar, weapon wheel hint. Bottom-right ammo counter \"9mm · 12/120\". Subtle film grain, faint chromatic aberration, modern open-world realism."
+    },
+    {
+      "id": 20,
+      "title": "Black Myth Wukong Battle Frame",
+      "category": "game_screenshot",
+      "tags": [
+        "game",
+        "fantasy",
+        "cn"
+      ],
+      "aspect_ratio": "21:9",
+      "prompt": "Generate a Black Myth: Wukong in-game cinematic frame. The Destined One (孙悟空) is mid-air, just knocked back by 二郎神's three-pointed double-edged spear. Sparks and shattered stone debris fly in all directions, golden Buddhist seals dissolving around the impact. Cliffside Tang-dynasty ruined temple in the background, swirling mist, deep red dusk sky. Lower HUD: stamina bar, health bar at 23%, focus orbs ×3, two skill icons on cooldown. Heavy cinematic motion blur, anamorphic flare, ultra-realistic Chinese mythological art direction."
+    },
+    {
+      "id": 21,
+      "title": "Sam Altman Skatepark Snapshot",
+      "category": "amateur_realistic",
+      "tags": [
+        "celebrity",
+        "candid",
+        "iphone"
+      ],
+      "aspect_ratio": "4:3",
+      "prompt": "Sam Altman on a skateboard at an empty skatepark, late afternoon. Casual dad-vibe outfit: gray hoodie, blue jeans, white sneakers. Mid-roll on a mellow ramp, slightly off-balance, half-grin. Shot with an iPhone, slight motion blur, no people in the background, harsh sun shadows. Looks like a real candid photo someone took on the way home, not a posed editorial."
+    },
+    {
+      "id": 22,
+      "title": "Tim Cook Apple Park Crowd Shot",
+      "category": "amateur_realistic",
+      "tags": [
+        "candid",
+        "iphone",
+        "event"
+      ],
+      "aspect_ratio": "4:3",
+      "prompt": "Amateur iPhone photo at Apple Park during the iPhone 20 keynote, Tim Cook on the Steve Jobs Theater stage in front of a giant title slide reading \"INTRODUCING IPHONE 20\". Shot from the middle of the crowd at a distance, slightly tilted, raised hands and other phones in the foreground partially blocking the view. Dim auditorium, bright stage, slight glare on the lens, jpeg compression artifacts. No professional staging."
+    },
+    {
+      "id": 23,
+      "title": "RAW iPhone Subway Blur",
+      "category": "amateur_realistic",
+      "tags": [
+        "iphone",
+        "raw",
+        "candid"
+      ],
+      "aspect_ratio": "4:3",
+      "prompt": "Create a completely RAW quality, unprocessed, unedited image with full iPhone camera quality. A subway station in NYC, a momentary motion blur as the train enters. In front of the train, an elderly woman and an elderly man waiting near the yellow line, both wearing winter coats. Tile walls, fluorescent overhead lights, faint reflections on the platform floor. No HDR pop, no AI sharpening, just an honest snapshot."
+    },
+    {
+      "id": 24,
+      "title": "2003 Digital Camera Family Snapshot",
+      "category": "amateur_realistic",
+      "tags": [
+        "nostalgia",
+        "2000s",
+        "family"
+      ],
+      "aspect_ratio": "4:3",
+      "prompt": "Generate a photo from 2003, shot with a low-resolution digital camera, of a five-year-old child with their mom and dad in the courtyard of a residential compound in China. Slight overexposure, harsh on-camera flash, red-eye effect, low dynamic range, bottom-right yellow date stamp \"2003 07 18\". Clothing typical of early-2000s mainland China: father in a polo shirt, mother in a floral blouse, child in shorts holding a popsicle. Concrete buildings, parked bicycles, a green tarp shade in the back."
+    },
+    {
+      "id": 25,
+      "title": "90s Point-and-Shoot Bedroom",
+      "category": "amateur_realistic",
+      "tags": [
+        "90s",
+        "film",
+        "bedroom"
+      ],
+      "aspect_ratio": "3:2",
+      "prompt": "A 1990s point-and-shoot 35mm film snapshot of a teenage girl sitting on her bed, holding a portable CD player, headphones around her neck. Posters of indie bands taped to the wall, a stack of magazines, fairy lights. Direct on-camera flash with hard shadow against the wall, slight red-eye, soft yellow-cyan color cast, heavy film grain, a small white date stamp \"08 14 99\" in the bottom-right corner. Composition slightly off-center, like a real personal photo."
+    },
+    {
+      "id": 26,
+      "title": "Convenience Store Night Group",
+      "category": "photorealistic_portrait",
+      "tags": [
+        "lifestyle",
+        "ultra-realistic",
+        "night"
+      ],
+      "aspect_ratio": "3:2",
+      "prompt": "Create an ultra-realistic urban street group photo at a convenience store entrance at 10 PM, summer night. 3-4 young people briefly chatting, one holding a drink, one sitting on a plastic chair, one looking at their phone. Bright cool white light streaming through the glass doors and windows, warm yellow streetlights and distant car headlights outside. Everyday clothes: T-shirts, shorts, jeans, sneakers — no influencer styling. Faces and postures must look like real pedestrians, not overly polished. Real convenience-store details: freezer stickers, promo posters, a trash can, an entrance mat, glass reflections, a shared bike on the curb, water droplets from cold drink bottles on the ground. Looks like a candid photographer's slice-of-life shot."
+    },
+    {
+      "id": 27,
+      "title": "35mm Cafe Window Portrait",
+      "category": "photorealistic_portrait",
+      "tags": [
+        "35mm",
+        "moody",
+        "rain"
+      ],
+      "aspect_ratio": "2:3",
+      "prompt": "A young woman by a rain-streaked café window at dusk, reading a worn paperback. 35mm film aesthetic, soft window light from the left, warm tungsten fill from the café interior, rain droplets in sharp focus on the glass, the city outside in soft bokeh with red and amber bus lights. Quiet, contemplative mood. Visible film grain, slight halation in highlights, gentle desaturation in shadows. No phones, no logos."
+    },
+    {
+      "id": 28,
+      "title": "Tokyo Yellow Raincoat Night",
+      "category": "photorealistic_portrait",
+      "tags": [
+        "cinematic",
+        "neon",
+        "tokyo"
+      ],
+      "aspect_ratio": "16:9",
+      "prompt": "A cinematic photograph of a single figure in a bright yellow vinyl raincoat, hood up, walking down a narrow Tokyo alley at night. Wet asphalt mirror-reflects the neon signs in Japanese kanji and katakana on either side — \"居酒屋\", \"カラオケ\", \"24時間\". Steam rising from a vent, distant red lantern glow, anamorphic lens flare around the brightest sign. Shot on a 35mm anamorphic, slight grain, deep teal shadows, saturated highlights."
+    },
+    {
+      "id": 29,
+      "title": "Hands Kneading Bread Dough",
+      "category": "photorealistic_portrait",
+      "tags": [
+        "food",
+        "macro",
+        "lifestyle"
+      ],
+      "aspect_ratio": "1:1",
+      "prompt": "A close-up photograph of weathered hands kneading bread dough on a floured wooden surface. Soft directional window light from the upper-left, fine flour dust caught in the beam, visible skin texture and small flour smears, dough showing realistic stretch and surface tension. Background slightly out of focus showing a linen towel and a vintage scale. Warm earthy tones, shallow depth of field, square 1:1 crop, editorial cookbook feel."
+    },
+    {
+      "id": 30,
+      "title": "Rice Grain Micro Typography",
+      "category": "photorealistic_portrait",
+      "tags": [
+        "macro",
+        "text",
+        "viral"
+      ],
+      "aspect_ratio": "1:1",
+      "prompt": "A massive pile of white rice grains, photographed with extreme macro lens at f/8. Shallow depth of field on a single grain near the center which has tiny, perfectly legible black engraved text reading \"wOw\". Soft daylight from above, gentle shadows between grains, no other text or markings on any other grain. Clean, almost scientific look. Aspect ratio 1:1."
+    },
+    {
+      "id": 31,
+      "title": "Caustic Whiskey Glass Study",
+      "category": "product_photography",
+      "tags": [
+        "liquid",
+        "caustics",
+        "studio"
+      ],
+      "aspect_ratio": "4:5",
+      "prompt": "A cinematic still-life photograph of a cut-crystal whiskey tumbler with two ice cubes and amber whiskey, sitting on a polished black walnut surface. A single hard backlight produces sharp caustic light patterns through the crystal onto the wood. Tiny condensation droplets cling to the glass exterior, one slow drip running down. Dark moody background, slight smoke drifting through the beam. 100mm macro lens, f/5.6, no logos, no text."
+    },
+    {
+      "id": 32,
+      "title": "Floating Sneaker Hero Shot",
+      "category": "product_photography",
+      "tags": [
+        "sneaker",
+        "studio",
+        "ad"
+      ],
+      "aspect_ratio": "1:1",
+      "prompt": "A high-end sneaker (clean white runner with mint accents) photographed floating in front of a deep matte black background. Hard rim light from the upper-right outlining the silhouette, soft fill from below, realistic suspended shadow on an invisible surface. Tiny dust particles drifting in the light. Glossy laces with realistic tension and individual fiber detail. Subtle motion-blur drag on a shoelace tip. Studio commercial look, no brand logos."
+    },
+    {
+      "id": 33,
+      "title": "Artisan Honey Jar Label",
+      "category": "product_photography",
+      "tags": [
+        "packaging",
+        "label",
+        "warm"
+      ],
+      "aspect_ratio": "4:5",
+      "prompt": "Product photography of a single artisan honey jar on a soft cream paper background with a faint linen texture. The jar has a hexagonal silhouette, raw cork lid, twine wrap, and a label that reads \"WILDFLOWER HONEY\" in serif uppercase, beneath it \"Harvest 2026 · 340g · raw / unfiltered\" in small italic. Subtle illustration of a honeycomb and a single bee on the label. Slow honey drip down the side, soft top-down side light, gentle shadow on the right. No other text, label perfectly aligned and legible."
+    },
+    {
+      "id": 34,
+      "title": "Watch on Navy Velvet Macro",
+      "category": "product_photography",
+      "tags": [
+        "watch",
+        "macro",
+        "luxury"
+      ],
+      "aspect_ratio": "16:9",
+      "prompt": "A close-up macro photograph of a luxury automatic watch resting on dark navy velvet. Stainless steel case with brushed and polished surfaces, blue sunburst dial, applied silver indices, slim sword hands at 10:08. Shallow depth of field on the crown, fine fabric texture of the velvet, soft directional reflection on the polished bezel, faint warm reflection on the sapphire crystal. No brand logo on the dial — keep dial center clean. 100mm macro, f/4."
+    },
+    {
+      "id": 35,
+      "title": "Solar Panel Infographic",
+      "category": "infographic_diagram",
+      "tags": [
+        "education",
+        "english",
+        "flow"
+      ],
+      "aspect_ratio": "16:9",
+      "prompt": "A clean editorial infographic titled \"HOW SOLAR PANELS WORK\" with five labeled horizontal flow steps from left to right, each in its own rounded card with a simple line icon: 1) \"SUNLIGHT HITS PANEL\" (sun + panel icon), 2) \"PHOTONS EXCITE ELECTRONS\" (atom icon), 3) \"DC ELECTRICITY GENERATED\" (battery icon), 4) \"INVERTER CONVERTS TO AC\" (wave icon), 5) \"POWERS YOUR HOME / GRID\" (house icon). Soft pastel palette: sage, sand, cream, soft yellow. Light off-white background, thin connecting arrows, small footnote text \"Source: U.S. DOE, 2025\". Crisp readable typography, no watermark."
+    },
+    {
+      "id": 36,
+      "title": "Earth Layers Educational Diagram",
+      "category": "infographic_diagram",
+      "tags": [
+        "science",
+        "diagram",
+        "education"
+      ],
+      "aspect_ratio": "1:1",
+      "prompt": "A clean educational diagram of Earth's interior layers shown as a quartered cross-section. From outside in: \"CRUST\" (thin grey-brown), \"UPPER MANTLE\" (warm orange), \"LOWER MANTLE\" (deep red-orange), \"OUTER CORE\" (bright molten yellow), \"INNER CORE\" (white-hot). Each layer labeled with its name, depth range in km (e.g. \"0–35 km\", \"35–660 km\", \"660–2900 km\", \"2900–5150 km\", \"5150–6371 km\") and a one-line description. Thin leader lines, soft pastel sky background, sans-serif labels, textbook style, all numbers correct."
+    },
+    {
+      "id": 37,
+      "title": "Cell Structure Bilingual Diagram",
+      "category": "infographic_diagram",
+      "tags": [
+        "biology",
+        "chinese",
+        "education"
+      ],
+      "aspect_ratio": "4:3",
+      "prompt": "细胞结构示意图，包含细胞核（Nucleus）、线粒体（Mitochondria）、内质网（Endoplasmic Reticulum）、高尔基体（Golgi Apparatus）、核糖体、细胞膜、溶酶体。每个结构带中英文双语标注，使用细引线箭头清晰指示，各结构分层、配色柔和（淡蓝、柠黄、薄荷、玫瑰），白色背景，简洁生物教材风格，文字清晰无错别字，不要乱码。"
+    },
+    {
+      "id": 38,
+      "title": "Coffee vs Tea Comparison",
+      "category": "infographic_diagram",
+      "tags": [
+        "comparison",
+        "lifestyle",
+        "data"
+      ],
+      "aspect_ratio": "4:5",
+      "prompt": "A two-column comparison infographic titled \"COFFEE vs TEA\". Left column header \"COFFEE\" in espresso brown with a steaming cup icon. Right column \"TEA\" in matcha green with a teacup icon. Six metric rows, each with an icon and clear values for both sides: \"CAFFEINE (mg / 8oz)\" 95 vs 47, \"ANTIOXIDANTS\" High vs Very High, \"AVG SERVE TIME\" 4 min vs 3 min, \"GLOBAL CONSUMERS\" 1.0B vs 2.0B, \"BEST PAIRS WITH\" Croissant vs Mochi, \"MOOD\" Sharp focus vs Calm focus. Off-white background, thin dividers, friendly rounded sans-serif, small footnote \"Illustrative figures, 2026\"."
+    },
+    {
+      "id": 39,
+      "title": "ORIN Coffee Brand Logo Set",
+      "category": "logo_branding",
+      "tags": [
+        "logo",
+        "minimal",
+        "branding"
+      ],
+      "aspect_ratio": "1:1",
+      "prompt": "A logo system for a specialty coffee brand called \"ORIN\" presented on a single off-white sheet. Top-left: primary wordmark — \"ORIN\" in a confident geometric sans-serif, the letter O subtly formed by an abstract flame-leaf curl. Top-right: secondary monogram — just the stylized O on its own. Bottom-left: monochrome version (deep espresso brown). Bottom-right: small tagline lockup \"ORIN — slow roasted, slow lived.\" Hairline grid guidelines barely visible. Crisp vector look, no watermark, no other extra text."
+    },
+    {
+      "id": 40,
+      "title": "RIDGE Outdoor Brand Mark",
+      "category": "logo_branding",
+      "tags": [
+        "logo",
+        "outdoor",
+        "circular"
+      ],
+      "aspect_ratio": "1:1",
+      "prompt": "A circular badge logo for an outdoor adventure brand called \"RIDGE\". Inside the circle: a stylized two-mountain silhouette with a small pine row at the base and a thin sunrise arc behind the peaks. Around the inside of the circle border, the text \"RIDGE · ESTABLISHED 2026 · WANDER WELL\" set in confident uppercase serif, kerned widely so it reads cleanly. Color: deep forest green on cream. Subtle linen paper texture beneath. No other elements, no watermark."
+    },
+    {
+      "id": 41,
+      "title": "Premium Water Bottle Hiking Ad",
+      "category": "ad_creative",
+      "tags": [
+        "lifestyle",
+        "ad",
+        "outdoor"
+      ],
+      "aspect_ratio": "4:5",
+      "prompt": "A premium lifestyle ad for an insulated stainless-steel water bottle. A young woman hikes along a high-alpine ridge at golden hour, mountains receding into haze behind her, holding the bottle naturally at her side. The bottle is matte sage green with no visible logos. Top of frame: bold serif headline \"BUILT FOR THE LONG WAY\". Bottom: small sans-serif tagline \"Hydration that goes the distance. — Vessel Co.\" and a small product shot in the corner with the line \"24oz · 24h cold · 12h hot\". Cinematic warm color grade, slight grain. 4:5 aspect."
+    },
+    {
+      "id": 42,
+      "title": "Skincare Minimal Square Ad",
+      "category": "ad_creative",
+      "tags": [
+        "skincare",
+        "minimal",
+        "social"
+      ],
+      "aspect_ratio": "1:1",
+      "prompt": "A square minimalist skincare ad. Pale blush pink background with a soft top-down shadow, a single frosted-glass serum bottle centered with a subtle dropper. Top-third headline in modern serif: \"YOUR SKIN. SIMPLIFIED.\" Below it in thin uppercase sans: \"ONE BOTTLE · FIVE STEPS REPLACED\". Bottom-right small product info \"30ml · niacinamide · hyaluronic acid · ceramides\" and a tiny brand mark \"AERA\". Crisp legible text, ample whitespace, magazine-grade composition."
+    },
+    {
+      "id": 43,
+      "title": "Summer Sale Social Graphic",
+      "category": "ad_creative",
+      "tags": [
+        "sale",
+        "social",
+        "ig"
+      ],
+      "aspect_ratio": "1:1",
+      "prompt": "A vibrant summer sale Instagram graphic. Sunset gradient background (peach to coral), giant playful display headline \"UP TO 50% OFF\" in chunky rounded sans, slight bouncing baseline. Below in tighter sans: \"SUMMER SALE — ENDS JULY 31\". Three floating product cutouts (sunglasses, straw hat, tote bag) casting soft realistic shadows. Bottom-left CTA pill button: \"SHOP NOW →\". Bottom-right small handle: \"@solstice.studio\". Crisp text, square 1:1."
+    },
+    {
+      "id": 44,
+      "title": "Surreal Koi Nebula",
+      "category": "illustration_style",
+      "tags": [
+        "surreal",
+        "fantasy",
+        "illustration"
+      ],
+      "aspect_ratio": "9:16",
+      "prompt": "A surrealist digital illustration with a low-angle upward perspective. A giant translucent koi fish with iridescent scales swims through a dreamlike nebula, surrounded by vivid star clusters, drifting bubbles and faint orbital rings. A tiny silhouette of a human figure stands on a calm reflective water surface in the lower third, gazing up at the massive koi looming overhead. Soft watercolor blending into painterly digital brushwork, deep indigo to magenta sky, warm golden highlights on the koi. Vertical 9:16 composition, awe-inspiring scale, no text."
+    },
+    {
+      "id": 45,
+      "title": "Watercolor Editorial Illustration",
+      "category": "illustration_style",
+      "tags": [
+        "watercolor",
+        "editorial",
+        "soft"
+      ],
+      "aspect_ratio": "3:4",
+      "prompt": "A dreamy watercolor illustration of a young woman walking a long-haired dog along a quiet European canal in autumn. Light impressionist aesthetic, loose visible brushstrokes and translucent washes in tones of dusty teal, ochre and faded rose. Soft blur on the edges, delicate morning light, falling leaves, minimalist approach with deliberate empty space. No text, no watermark. 3:4 portrait."
+    },
+    {
+      "id": 46,
+      "title": "Epic Silhouette World Poster",
+      "category": "poster_typography",
+      "tags": [
+        "double-exposure",
+        "anime",
+        "epic"
+      ],
+      "aspect_ratio": "2:3",
+      "prompt": "Collectible epic poster featuring a young swordsman's side-profile silhouette as the main canvas. Inside the silhouette grows a complete fantasy world: floating islands, a winding river, distant temple ruins, drifting cherry blossoms, a small dragon coiled in the eye, and the swordsman's allies as tiny figures along the cheekbone path. Outside the silhouette: a deep indigo sky with constellations and ink-wash clouds. Cinematic poster meets dreamlike watercolor illustration, high-density detail, strong chiaroscuro, sacred-yet-ominous mood. Bottom: title \"THE LAST INK\" in elegant serif and a small tagline \"a story drawn in one breath\"."
+    },
+    {
+      "id": 47,
+      "title": "Impossible Escher Library",
+      "category": "illustration_style",
+      "tags": [
+        "surreal",
+        "architecture",
+        "escher"
+      ],
+      "aspect_ratio": "1:1",
+      "prompt": "A surreal architectural illustration of an impossible library inspired by M.C. Escher: staircases that connect at right angles defying gravity, bookshelves on every plane including the ceiling, tiny robed figures climbing in multiple impossible orientations, soft warm lantern light from countless reading nooks, deep shadows in the unreachable corners. Subtle pencil-line architectural overlays, sepia and ink palette, fine cross-hatching, surreal but mathematically convincing perspective. Square format, no text."
+    },
+    {
+      "id": 48,
+      "title": "Korean Idol 3×3 Grid Portrait",
+      "category": "photorealistic_portrait",
+      "tags": [
+        "k-pop",
+        "grid",
+        "9:16"
+      ],
+      "aspect_ratio": "9:16",
+      "prompt": "9:16 vertical, Korean idol portrait photoshoot, 3×3 grid (nine frames) of the same young woman, perfectly consistent facial features, hairstyle and styling across all nine frames. Soft black-mist filter effect, slightly lowered contrast, blooming highlights, gentle film grain. Each frame has a distinct pose: looking down, side profile, hand near jaw, looking up, candid laugh, hair flip, soft smile, eyes closed, direct gaze. Outfit: cream knit cardigan over thin white tee. Studio with off-white seamless backdrop. Thin black frame separators between cells. No watermark, no text on the image."
+    },
+    {
+      "id": 49,
+      "title": "CCD Flash Candid Snapshot",
+      "category": "amateur_realistic",
+      "tags": [
+        "ccd",
+        "flash",
+        "candid"
+      ],
+      "aspect_ratio": "4:3",
+      "prompt": "Mobile phone photo using a digital CCD camera aesthetic. Harsh on-camera flash, grainy, dim messy indoor lighting, candid snapshot feeling, slight motion blur, slightly green-yellow color cast typical of early-2000s CCD sensors. Subject: a young Asian woman mid-laugh holding a slice of pizza, sitting on the floor of a crowded apartment party with mismatched furniture and string lights. Date stamp \"2025 11 04\" small in the bottom-right. Looks like a real friend's phone photo, not editorial."
+    },
+    {
+      "id": 50,
+      "title": "Detective's Investigation Slide Deck",
+      "category": "ui_mockup",
+      "tags": [
+        "slide",
+        "presentation",
+        "data"
+      ],
+      "aspect_ratio": "16:9",
+      "prompt": "A professional boardroom presentation slide rendered as if shown on a 16:9 monitor. Slide title in bold sans: \"FY2026 MARKET OUTLOOK — AI INFRASTRUCTURE\". Three KPI tiles across the top: \"TAM · $42B\", \"SAM · $8.7B\", \"SOM · $340M\". Below: a clean bar chart titled \"Market growth 2021–2026\" with subtle upward trend, value labels on top of each bar (3.1B, 6.4B, 11.2B, 18.9B, 28.4B, 42.0B), Y-axis labelled \"USD (B)\", X-axis years. To the right of the chart, three short bullet takeaways. Bottom-left footnote: \"Source: AGI Research, 2026\". Bottom-right slide number \"04 / 22\". Calm corporate palette of navy, white and amber. Crisp legible text, accurate numbers."
+    },
+    {
+      "id": 51,
+      "title": "Vinyl Album Cover — Indie Synthpop",
+      "category": "album_cover",
+      "tags": [
+        "album",
+        "12in",
+        "vinyl"
+      ],
+      "aspect_ratio": "1:1",
+      "prompt": "A 12-inch vinyl album cover for an indie synthpop record titled \"NEON SUMMER\" by the band \"FUTURE TENSE\". Painterly retro-futurist illustration: a young woman with windblown hair standing on a beach at twilight, looking up at a giant pixelated sun setting into a vaporwave grid ocean. Palm tree silhouettes, distant cassette-shaped clouds. Bottom-left in chunky 80s display serif: \"FUTURE TENSE\". Bottom-right small: \"NEON SUMMER · LP\". Slight cardboard fiber texture, soft offset-print color registration. No watermark."
+    },
+    {
+      "id": 52,
+      "title": "Jazz Album Cover — Blue Note Tribute",
+      "category": "album_cover",
+      "tags": [
+        "jazz",
+        "minimal",
+        "duotone"
+      ],
+      "aspect_ratio": "1:1",
+      "prompt": "A minimalist jazz album cover in the spirit of classic Blue Note Records. Black-and-white duotone photograph of a saxophonist mid-solo, eyes closed, harsh side light, deep shadows. Title \"AFTER MIDNIGHT\" in oversized white sans-serif uppercase, set vertically along the right edge. Artist name \"NOAH KING QUARTET\" in small white caps lower-left. Catalog code \"BN-2026-014\" upper-right corner in tiny white. Flat color block of cobalt blue covering the lower 30%. Slight paper grain."
+    },
+    {
+      "id": 53,
+      "title": "Literary Novel Book Cover",
+      "category": "book_cover",
+      "tags": [
+        "book",
+        "literary",
+        "minimal"
+      ],
+      "aspect_ratio": "2:3",
+      "prompt": "A literary novel book cover, hardback dust jacket, portrait 2:3. Cream textured background with a single hand-drawn ink illustration of a small bird flying away from an open window, centered upper third. Title \"THE QUIET HOUR\" in elegant centered serif italic, mid-cover. Below it a thin rule, then \"a novel\" in small caps. Bottom: \"ELENA RAMÍREZ\" in confident serif uppercase. Spine-edge subtle gradient shadow on the left. Small \"PENWORTH PRESS\" mark at the bottom. Slight letterpress impression."
+    },
+    {
+      "id": 54,
+      "title": "Sci-Fi Paperback Book Cover",
+      "category": "book_cover",
+      "tags": [
+        "scifi",
+        "paperback",
+        "retro"
+      ],
+      "aspect_ratio": "2:3",
+      "prompt": "A 1970s pulp sci-fi paperback book cover. Painted illustration of an astronaut standing on a red desert planet, two moons in a violet sky, an ancient alien obelisk towering over them. Top banner in chunky orange display caps: \"THE OBELISK PROTOCOL\". Top-left small starburst badge \"FIRST EDITION · 95¢\". Bottom: author \"GRACE NAKAMURA\" in tall white serif, beneath it tagline \"They were never the first ones here.\" Slight halftone grain, faded paperback edges, visible spine crease."
+    },
+    {
+      "id": 55,
+      "title": "Sci-Fi Movie Poster — DRIFT",
+      "category": "movie_poster",
+      "tags": [
+        "movie",
+        "scifi",
+        "key-art"
+      ],
+      "aspect_ratio": "2:3",
+      "prompt": "Theatrical movie poster for a sci-fi feature titled \"DRIFT\". A lone astronaut tethered to nothing, slowly drifting away from a damaged orbital station, Earth half-eclipsed in the background. Atmospheric, melancholy, deep teal and warm amber rim light. Title \"DRIFT\" in tall thin sans-serif uppercase across the lower third, kerned wide, with a thin horizontal line above. Tagline above the title: \"GRAVITY WAS NEVER THE PROBLEM.\" Bottom credits block in tiny condensed sans (director, cast, studio strip). \"IN THEATERS NOVEMBER\" small at the very bottom. Glossy print finish."
+    },
+    {
+      "id": 56,
+      "title": "TIME-Style Magazine Cover",
+      "category": "magazine_cover",
+      "tags": [
+        "magazine",
+        "editorial",
+        "person-of-year"
+      ],
+      "aspect_ratio": "3:4",
+      "prompt": "A photorealistic news magazine cover in the visual style of TIME. Red bordered frame, top-left masthead in heavy serif: \"TIME\". Above masthead small line: \"MAY 18, 2026 · timeoneline.com\". Cover image: a thoughtful close-up portrait of a fictional 50-year-old woman scientist, soft studio lighting, neutral grey backdrop. Bottom-left bold serif headline: \"PERSON OF THE YEAR\" with a smaller dek beneath: \"Dr. Marin Hale and the post-AGI economy\". Right-edge spine area: vertical small text \"$8.99\". Crisp print quality, subtle paper texture, no real-world brand likeness."
+    },
+    {
+      "id": 57,
+      "title": "Fashion Magazine Editorial Cover",
+      "category": "magazine_cover",
+      "tags": [
+        "fashion",
+        "editorial",
+        "vogue-like"
+      ],
+      "aspect_ratio": "3:4",
+      "prompt": "A high-fashion magazine cover, portrait 3:4, glossy paper. Top masthead in custom thin serif: \"AURA\" set very large across the top. Cover model: a poised young woman in an avant-garde structured ivory blazer dress, soft beauty lighting, neutral champagne backdrop, looking directly at camera. Cover lines stacked left of model: \"THE QUIET POWER ISSUE / 32 LOOKS THAT REWRITE THE RULES / INSIDE THE NEW PARIS / SUMMER 2026\" — varied weights and sizes, balanced kerning. Lower-right small barcode and \"MAY 2026 · €9.50\". No real brand names."
+    },
+    {
+      "id": 58,
+      "title": "Newspaper Front Page Mockup",
+      "category": "magazine_cover",
+      "tags": [
+        "newspaper",
+        "broadsheet",
+        "news"
+      ],
+      "aspect_ratio": "3:4",
+      "prompt": "A broadsheet newspaper front page in the style of a classic American daily, portrait 3:4. Masthead: \"THE METRO HERALD\" in old-style blackletter, with small italic line beneath: \"Founded 1894 · Saturday, May 16, 2026 · $3.50\". Lead headline below masthead in huge bold serif: \"AGI POLICY ACT PASSES SENATE BY NARROW MARGIN\". Sub-headline: \"Bipartisan compromise sets first global standard; tech leaders cautiously welcome bill\". One large lead photo of a packed Senate chamber with caption \"The 6:14 a.m. vote draws applause from the gallery (AP).\" Three columns of grey body text simulated, a sidebar story \"INSIDE: WHAT IT MEANS FOR YOUR JOB\", and a small weather strip at the very top. Slight newsprint texture."
+    },
+    {
+      "id": 59,
+      "title": "Boarding Pass Ticket",
+      "category": "ticket_stub",
+      "tags": [
+        "travel",
+        "boarding-pass",
+        "mockup"
+      ],
+      "aspect_ratio": "21:9",
+      "prompt": "A photorealistic boarding pass for a fictional airline \"AURORA AIR\", landscape 21:9, perforated stub on the right. Header: airline logo (a simple aurora swoop) and \"BOARDING PASS\". Passenger \"PARKER / J · MR\". Flight \"AU 217\". From \"NRT TOKYO HANEDA\" To \"SFO SAN FRANCISCO\". Date \"18 MAY 2026\". Departure \"08:35\". Gate \"22\". Seat \"14A · WINDOW\". Group \"3\". Bar code at the bottom and a smaller QR code on the stub. Status \"ECONOMY · ON TIME\". Subtle paper texture, sharp text, all fields aligned to a clean grid."
+    },
+    {
+      "id": 60,
+      "title": "China High-Speed Train Ticket",
+      "category": "ticket_stub",
+      "tags": [
+        "china",
+        "ticket",
+        "g-train"
+      ],
+      "aspect_ratio": "21:9",
+      "prompt": "中国铁路高铁车票照片，蓝色背景纸质票，21:9 横版。顶部居中红色文字「中国铁路 CHINA RAILWAY」与小字「实名制车票」。左侧字段：「上海虹桥站 → 北京南站」「G2 次 06月12日 09:00 开」；右侧「03 车 06A 号」「商务座」「￥1748.0」。中部姓名身份证：「张某某 3101*********1234」。底部 21 位车票号、二维码、退票改签提示文字。字体清晰，无错别字，无乱码，符合 12306 蓝票样式。"
+    },
+    {
+      "id": 61,
+      "title": "Concert Ticket Stub",
+      "category": "ticket_stub",
+      "tags": [
+        "concert",
+        "music",
+        "stub"
+      ],
+      "aspect_ratio": "21:9",
+      "prompt": "A retro concert ticket stub on slightly textured pulp paper, with a perforated tear strip on the right. Top in chunky letterpress display: \"FUTURE TENSE — NEON SUMMER TOUR\". Beneath, in monospace: \"VENUE · ECHO HALL · BERLIN\". Date \"FRI · JUL 12 · 2026 · 20:30\". Section \"GA STANDING\". Order \"#A2740-008\". Faded barcode bottom-left, dotted line down the perforation, a tiny mascot drawing in the corner. Rich navy ink, slight registration offset, authentic ticket-printer typography, no modern QR-only design."
+    },
+    {
+      "id": 62,
+      "title": "City Subway Map — Auralis",
+      "category": "subway_map",
+      "tags": [
+        "map",
+        "transit",
+        "diagram"
+      ],
+      "aspect_ratio": "1:1",
+      "prompt": "A clean fictional city subway map for the city of \"AURALIS\". Eight color-coded lines (Red 1, Blue 2, Green 3, Yellow 4, Purple 5, Orange 6, Cyan 7, Magenta 8) crossing in a clear diagrammatic style inspired by the London Tube map. Stations as small white dots with horizontal labels in clear sans-serif: realistic invented names (\"HIGHGATE PARK\", \"MERIDIAN\", \"OLD HARBOUR\", \"FOUNDRY ROW\", etc., 6-10 stations per line). Interchange stations as larger circles. Top-right title block \"AURALIS METRO · NETWORK MAP 2026\", bottom-right legend with line numbers and a small compass rose. White background, thin grid alignment, no errors or duplicate labels."
+    },
+    {
+      "id": 63,
+      "title": "Times Square Billboard Mockup",
+      "category": "billboard_mockup",
+      "tags": [
+        "billboard",
+        "mockup",
+        "ny"
+      ],
+      "aspect_ratio": "16:9",
+      "prompt": "A wide-angle photograph of Times Square at dusk, slight rain on the street. The largest digital billboard in the center of the frame is currently displaying a clean ad: black background, bold serif headline \"THINK SLOWER.\" with a small product shot of an analog mechanical watch beneath, brand mark \"HORA\" in the lower-right of the ad. Surrounding screens show generic non-branded scrolling content. Yellow taxis, blurred crowds, neon reflections on wet asphalt, cinematic teal and amber grade. Aspect 16:9."
+    },
+    {
+      "id": 64,
+      "title": "Bus Stop Poster Mockup",
+      "category": "billboard_mockup",
+      "tags": [
+        "ooh",
+        "mockup",
+        "bus-stop"
+      ],
+      "aspect_ratio": "9:16",
+      "prompt": "A photorealistic mockup of a bus stop poster on a rainy evening city street. The lit poster panel shows a single bold ad: warm orange background, a steaming bowl of ramen photographed from above, headline in white sans \"OPEN UNTIL 3 AM\", smaller line beneath \"Tonkotsu Ramen · Now in Brooklyn · @MENYA.NEST\". Around the panel: real urban texture (raindrops on glass, blurred passing taxi headlights, pedestrian silhouette with umbrella), reflective wet pavement. 9:16 portrait. Crisp legible text on the panel."
+    },
+    {
+      "id": 65,
+      "title": "T-Shirt Flat Lay Mockup",
+      "category": "apparel_mockup",
+      "tags": [
+        "tshirt",
+        "flatlay",
+        "mockup"
+      ],
+      "aspect_ratio": "1:1",
+      "prompt": "A photorealistic flat lay mockup of a heavyweight cream cotton T-shirt on a soft beige linen background, top-down view, soft natural light from the upper-left. The chest area shows a clean printed graphic: a hand-drawn fineliner illustration of a mountain range with the small text \"HIGHER GROUND · 2026\" set in compact serif beneath. A neatly folded denim shirt and a pair of round wire-frame glasses lie next to it as styling props. Visible cotton weave, subtle wrinkles, realistic shadows. 1:1 square crop."
+    },
+    {
+      "id": 66,
+      "title": "Tote Bag Streetwear Mockup",
+      "category": "apparel_mockup",
+      "tags": [
+        "tote",
+        "streetwear",
+        "mockup"
+      ],
+      "aspect_ratio": "4:5",
+      "prompt": "A model holding a natural canvas tote bag at her side while walking through a sunlit Tokyo backstreet at golden hour. The tote print: a bold black ink-style brushstroke logo with the kanji \"漂流\" centered, beneath it the romaji \"HYORYU\" and a smaller English line \"DRIFT THROUGH THE CITY\". The model wears layered earth-tone basics. Slight motion blur in the background, sharp focus on the tote, warm grain, fashion editorial mood. 4:5 vertical."
+    },
+    {
+      "id": 67,
+      "title": "Phone Case Sticker Mockup",
+      "category": "apparel_mockup",
+      "tags": [
+        "phone-case",
+        "stickers",
+        "merch"
+      ],
+      "aspect_ratio": "1:1",
+      "prompt": "A top-down photograph of a matte white smartphone lying on a mint-green textured paper. The transparent phone case is decorated with a curated set of small printed stickers: a melting ice-cream, a tiny ghost reading a book, a sun with sunglasses, a smiley flower, a cassette tape, a pixel heart, the text \"BE SOFT, BE LOUD\" in handwritten script, and a small \"@PIXIESTICKERS\" tag in the corner. Subtle shadows, a single fern leaf as a styling prop on the upper-right. Crisp, playful, very social-media-friendly."
+    },
+    {
+      "id": 68,
+      "title": "iMessage Conversation Screenshot",
+      "category": "chat_screenshot",
+      "tags": [
+        "imessage",
+        "ios",
+        "screenshot"
+      ],
+      "aspect_ratio": "9:19.5",
+      "prompt": "A photorealistic iPhone iMessage conversation screenshot in light mode. Status bar 9:41, full battery, 5G. Top header shows contact name \"Mom\" with a small avatar. Conversation bubbles, alternating: Mom (grey, left) \"are u home for dinner sun?\", me (blue, right) \"yes! flight lands sat night\", Mom \"perfect i'm making your dad's lasagna 🥲\", me \"ok now i'm crying at the gate\", Mom \"don't be dramatic. bring jacket it's cold\", me \"yes ma'am ❤️\". Timestamps grouped \"Yesterday 6:42 PM\". Bottom message field empty with placeholder \"iMessage\". Crisp system font, accurate spacing."
+    },
+    {
+      "id": 69,
+      "title": "WeChat Chat Screenshot",
+      "category": "chat_screenshot",
+      "tags": [
+        "wechat",
+        "chinese",
+        "screenshot"
+      ],
+      "aspect_ratio": "9:19.5",
+      "prompt": "微信聊天界面截图，iOS 风格，状态栏 09:41 满信号。顶栏显示对方名字「妈」与未读返回箭头。气泡对话：左侧妈「到家了没」「我给你留了你最爱的红烧肉」「冰箱里」；右侧我「刚到 谢谢妈」「还有那盘饺子也是你包的吗」；左侧妈「嗯 周末多包了点冻起来」「记得吃」；右侧我「好的 妈你早点睡」「爱你」。右侧带语音消息「按住 说话」按钮、表情、+号。所有中文字体清晰，无错别字、无乱码，时间戳「昨天 22:14」分组显示。"
+    },
+    {
+      "id": 70,
+      "title": "Discord Server Screenshot",
+      "category": "chat_screenshot",
+      "tags": [
+        "discord",
+        "dark-mode",
+        "screenshot"
+      ],
+      "aspect_ratio": "16:10",
+      "prompt": "A photorealistic Discord desktop screenshot, dark mode, 1440p. Left server bar with 6 round server icons. Channel sidebar for server \"AGENT BUILDERS\": categories \"INFO\" with channels (#welcome, #rules), \"BUILD LOG\" (#daily, #showcase), \"VOICE\" (Lounge — 3 users). Active channel \"#showcase\" header. Three messages visible: user \"avery_42\" posts a screenshot of a terminal output and writes \"shipped my first agent! 🥳\" with 12 reactions; \"min.dev\" replies \"goated\"; \"capybara_dev\" replies \"share the repo!\". User list right column shows 47 online with avatars and roles (Admin, Builder, Lurker). Bottom message box empty placeholder \"Message #showcase\". Crisp UI."
+    },
+    {
+      "id": 71,
+      "title": "Twitter/X Post Card",
+      "category": "chat_screenshot",
+      "tags": [
+        "twitter",
+        "x",
+        "social"
+      ],
+      "aspect_ratio": "1:1",
+      "prompt": "A pixel-perfect screenshot card of a single X (Twitter) post in light mode. Author: profile photo of a casual portrait, display name \"Maya Chen\" with a verified checkmark, handle \"@mayabuilds\". Timestamp \"· 4h\". Post text: \"shipped a tiny side project today and someone in canada actually used it. internet still magic.\". Beneath: a cropped product screenshot as the linked card with title \"Tinypaste — share text in 1 click\" and domain \"tinypaste.app\". Engagement row: 47 replies, 312 reposts, 4.1K likes, 89K views, bookmark icon. Realistic spacing, system font. Square 1:1."
+    },
+    {
+      "id": 72,
+      "title": "Google Search Results Page",
+      "category": "search_screenshot",
+      "tags": [
+        "google",
+        "search",
+        "serp"
+      ],
+      "aspect_ratio": "16:10",
+      "prompt": "A photorealistic mockup of a Google search results page on a 1440p desktop browser. Top: Google logo, search bar containing the query \"how does gpt image 2 render text\", small mic and camera icons, search button. Tabs row: All / Images / Videos / News / Shopping / Maps / Books / More. Top: an AI Overview answer box with a 3-line summary and four citation chips. Below: 5 organic results with titles, breadcrumbs and short meta descriptions on plausibly named blogs and docs (no real brands required). Right column: a small knowledge panel for \"GPT Image 2\" listing release date, developer, type. Bottom pagination 1–10. Crisp typography, accurate spacing."
+    },
+    {
+      "id": 73,
+      "title": "VS Code Editor Screenshot",
+      "category": "search_screenshot",
+      "tags": [
+        "editor",
+        "code",
+        "ide"
+      ],
+      "aspect_ratio": "16:10",
+      "prompt": "A photorealistic mockup of a VS Code-style editor in dark mode at 1440p. Left activity bar with 5 icons. File explorer open, project \"agent-runner\" with folders src / tests / scripts, expanded src showing files: main.ts, agent.ts, tools.ts, prompts.ts. Main editor open on agent.ts with realistic 30 lines of TypeScript code defining a class \"Agent\" with methods plan(), step() and run() — syntax highlighted (keywords purple, strings orange, types cyan). Mini-map on the right. Bottom status bar: \"main · 0↓ 0↑\", \"Ln 14, Col 22\", \"TypeScript\", \"UTF-8\". Open terminal pane at the bottom showing \"$ npm run dev\" and \"agent listening on :3000\". Crisp, no logo drift."
+    },
+    {
+      "id": 74,
+      "title": "Voxel City Diorama",
+      "category": "voxel_pixel_art",
+      "tags": [
+        "voxel",
+        "isometric",
+        "city"
+      ],
+      "aspect_ratio": "1:1",
+      "prompt": "An isometric voxel art diorama of a tiny island city floating on a flat square base. Hand-crafted look reminiscent of classic MagicaVoxel projects: pastel rooftops, cobblestone streets, a cozy harbor with a small ferry, a lighthouse, a park with pixel trees, miniature voxel pedestrians. Soft global illumination, gentle ambient occlusion, peach-and-mint color palette. White background, perfectly centered, square 1:1. No text."
+    },
+    {
+      "id": 75,
+      "title": "Pixel Art RPG Town",
+      "category": "voxel_pixel_art",
+      "tags": [
+        "pixel-art",
+        "rpg",
+        "16bit"
+      ],
+      "aspect_ratio": "16:9",
+      "prompt": "A 16-bit pixel art RPG screenshot in the style of classic SNES JRPGs, top-down 3/4 perspective. A small fantasy town at sunset: stone fountain in the central plaza, wooden inn with a swinging sign reading \"THE GILDED ACORN\", a blacksmith with smoke rising from the chimney, an elf merchant with a fruit cart, three NPCs walking. Player character (small armored sprite) standing near the fountain. Top-left HUD: party portraits, HP/MP bars, gold counter \"G 1248\". Bottom dialog box with \"INNKEEPER: Stay the night for 30G?\". Pixel-perfect lines, dithered shadows, 256-color palette."
+    },
+    {
+      "id": 76,
+      "title": "Cardboard Diorama Coffee Shop",
+      "category": "diorama_3d",
+      "tags": [
+        "paper-craft",
+        "diorama",
+        "miniature"
+      ],
+      "aspect_ratio": "4:3",
+      "prompt": "A photorealistic paper-craft diorama of a cozy two-story coffee shop scene, made entirely of layered cardstock and felt. Tiny paper-cut figures: a barista at the counter, two customers with paper coffee cups, a sleeping paper cat on a chair. Visible craft details — exposed glue tabs, slight curl in folded paper, fiber texture, hand-cut edges. Soft warm lamp lighting from inside the shop, gentle desk light from above the diorama. Set on a wooden tabletop with a few craft tools beside it. Aspect 4:3, shallow depth of field."
+    },
+    {
+      "id": 77,
+      "title": "Knitted Wool Animal Set",
+      "category": "diorama_3d",
+      "tags": [
+        "wool",
+        "craft",
+        "stop-motion"
+      ],
+      "aspect_ratio": "1:1",
+      "prompt": "A still-life photograph of three handmade knitted wool animals — a fox, a hedgehog and an owl — sitting in a tiny felt-and-wool forest scene with mushrooms and pine trees. Visible wool fiber, slight imperfections, felt-needle pokes, soft fuzz. Soft north-window daylight, natural shadow, warm earthy palette. Like a frame from a stop-motion children's animation. Square 1:1."
+    },
+    {
+      "id": 78,
+      "title": "Studio Ghibli Forest Bath",
+      "category": "ghibli_style",
+      "tags": [
+        "ghibli",
+        "anime",
+        "warm"
+      ],
+      "aspect_ratio": "16:9",
+      "prompt": "A hand-painted animation frame in the visual spirit of classic Studio Ghibli films. A young girl in a yellow raincoat and red boots walks along a mossy stone path through a misty Japanese forest, holding hands with a small round forest spirit. Hand-painted watercolor backgrounds, lush detailed foliage, soft volumetric sunbeams cutting through the canopy, gentle warm-cool contrast, slight grain, dreamy mood. Cinematic 16:9 frame. No watermark, no text."
+    },
+    {
+      "id": 79,
+      "title": "Wes Anderson Symmetrical Hotel",
+      "category": "wes_anderson",
+      "tags": [
+        "wes-anderson",
+        "symmetry",
+        "pastel"
+      ],
+      "aspect_ratio": "16:9",
+      "prompt": "A perfectly symmetrical wide-angle frame in the style of Wes Anderson. A pastel pink alpine hotel called \"HOTEL FÉLIX\" centered in the composition, two identical bellhops in burgundy uniforms standing equidistant from the entrance, a vintage burgundy taxi parked dead-center in the foreground. Snow-dusted pine trees on either side mirror each other. Top of the building shows the elegant cursive \"HOTEL FÉLIX\" sign. Strong 1-point perspective, flat front-on shot, candy-pastel palette of pink, mustard, mint and cream, slight film grain. Cinematic 16:9."
+    },
+    {
+      "id": 80,
+      "title": "Drone Aerial Iceland Landscape",
+      "category": "drone_aerial",
+      "tags": [
+        "drone",
+        "aerial",
+        "landscape"
+      ],
+      "aspect_ratio": "16:9",
+      "prompt": "A high-altitude drone photograph of a single black-sand river delta winding through Iceland's volcanic plains, branching like a tree of glowing turquoise streams. Patches of bright moss, small isolated tents along the bank for scale, dramatic late-afternoon side light raking across the terrain creating long shadows. Cool desaturated palette with bright cyan water, slight micro-contrast. Cinematic 16:9 aspect, very high detail, no overlay text."
+    },
+    {
+      "id": 81,
+      "title": "Drone Top-Down Coastline",
+      "category": "drone_aerial",
+      "tags": [
+        "drone",
+        "topdown",
+        "ocean"
+      ],
+      "aspect_ratio": "1:1",
+      "prompt": "A perfectly top-down drone photograph of a stretch of tropical coastline. Half the frame is deep teal ocean with breaking white wave lines, the other half white sand with palm tree shadows fanning across it. A single tiny lone surfer paddling out on a yellow board near the wave break, providing scale. Soft natural shadow, midday tropical light, gentle gradient from deep ocean to sandbar. Square 1:1. No text."
+    },
+    {
+      "id": 82,
+      "title": "Microscope Snowflake Macro",
+      "category": "microscope_macro",
+      "tags": [
+        "microscope",
+        "snowflake",
+        "science"
+      ],
+      "aspect_ratio": "1:1",
+      "prompt": "An extreme macro photograph of a single perfect dendritic snowflake resting on a dark wool surface. Polarized light reveals fine internal crystal structure with subtle iridescent rainbow tints. Six-fold symmetry, fine fern-like branches, tiny condensation droplets clinging to the wool fibers around it. Pitch-black negative space, square 1:1. Looks like a science journal cover image."
+    },
+    {
+      "id": 83,
+      "title": "Bee Pollen Macro",
+      "category": "microscope_macro",
+      "tags": [
+        "macro",
+        "nature",
+        "bee"
+      ],
+      "aspect_ratio": "3:2",
+      "prompt": "An extreme close-up macro photograph of a honeybee covered in golden pollen, perched on a single sunflower disc. Visible compound eye texture, fine hair, individual pollen grains caught in mid-air around the bee, soft warm afternoon light, deeply blurred yellow-green background. National Geographic editorial style, very fine detail, no overlay text or watermark. 3:2 aspect."
+    },
+    {
+      "id": 84,
+      "title": "Bilingual Restaurant Menu",
+      "category": "restaurant_menu",
+      "tags": [
+        "menu",
+        "bilingual",
+        "design"
+      ],
+      "aspect_ratio": "2:3",
+      "prompt": "A clean restaurant menu page, portrait 2:3, cream paper background with soft linen texture. Top: restaurant name \"ANJU 안주\" in confident serif and small Korean caption \"한식 다이닝\". Two sections \"STARTERS / 전채\" and \"MAIN / 메인\". Each section has 4 items with the dish name on the left in serif (e.g. \"Galbi Short Rib · 갈비\"), a one-line description in italic mid-grey, and a price on the right in tabular numerals (e.g. \"38\"). Bottom small line in italic: \"Prices in USD. 18% gratuity for parties of 6 or more.\" Slight letterpress impression, all Korean characters perfectly rendered, no errors."
+    },
+    {
+      "id": 85,
+      "title": "Recipe Card — Ramen",
+      "category": "recipe_card",
+      "tags": [
+        "recipe",
+        "card",
+        "food"
+      ],
+      "aspect_ratio": "3:4",
+      "prompt": "A printable recipe card, portrait 3:4, cream background with subtle paper grain. Top photo: a bowl of tonkotsu ramen shot top-down with chashu, soft egg, scallions, nori, narutomaki. Title beneath: \"WEEKNIGHT TONKOTSU RAMEN\" in serif, small line \"Serves 2 · 35 min\". Two columns: left \"INGREDIENTS\" with a clean checkbox list (broth, noodles, chashu, soft egg, scallion, nori, garlic oil, salt, soy tare, etc., with quantities). Right \"METHOD\" with 5 numbered steps in concise sans. Bottom-right small \"recipe by HOMEKITCHEN.JP\". Crisp text, no watermark."
+    },
+    {
+      "id": 86,
+      "title": "Premium Tea Box Packaging",
+      "category": "packaging_design",
+      "tags": [
+        "packaging",
+        "tea",
+        "premium"
+      ],
+      "aspect_ratio": "1:1",
+      "prompt": "A studio product photograph of a premium loose-leaf tea box, square 1:1. Dark forest-green matte cardboard box with embossed gold foil. Front face: small leaf icon at the top, brand name \"VERDÉ\" in elegant serif, beneath in small italic \"Imperial Genmaicha · 75g\", a thin gold horizontal rule, and at the bottom \"Hand-blended in Kyoto · No.014\". Side of the box visible at a slight 3/4 angle revealing brewing instructions in tiny clean type. Soft directional studio light, gentle reflection on a polished wooden surface, a few loose tea leaves and a roasted rice grain artfully scattered."
+    },
+    {
+      "id": 87,
+      "title": "Skincare Tube Mockup",
+      "category": "packaging_design",
+      "tags": [
+        "skincare",
+        "mockup",
+        "minimal"
+      ],
+      "aspect_ratio": "4:5",
+      "prompt": "A clean cosmetic tube product mockup standing on a soft seamless beige paper backdrop. The tube has a matte off-white body, brushed silver cap, debossed logo \"AERA\" mid-tube, label text reading \"BARRIER REPAIR CREAM · 50ml · with ceramides + niacinamide\" wrapped neatly around. Soft top-right key light, gentle long shadow falling left, a single dewy droplet on the cap. Editorial, calm, premium skincare aesthetic. 4:5 vertical."
+    },
+    {
+      "id": 88,
+      "title": "Limited Edition Postage Stamp Sheet",
+      "category": "stamp_postcard",
+      "tags": [
+        "stamp",
+        "philately",
+        "vintage"
+      ],
+      "aspect_ratio": "1:1",
+      "prompt": "A philatelic-quality sheet of four limited-edition postage stamps, perforated edges, on cream paper. Theme: \"BIRDS OF NORTH AMERICA — 2026 SERIES\". Each stamp shows a different bird (bald eagle, blue jay, ruby-throated hummingbird, great horned owl) in delicate scientific watercolor illustration, Latin name in italic, common name in serif caps, denomination \"USA · 65¢\". Title at the top of the sheet \"USPS · 2026\" with a small numbered border \"014 / 250\". Subtle ink print texture, sharp perforations, no real-world brand drift."
+    },
+    {
+      "id": 89,
+      "title": "Vintage Postcard from Lisbon",
+      "category": "stamp_postcard",
+      "tags": [
+        "postcard",
+        "vintage",
+        "travel"
+      ],
+      "aspect_ratio": "3:2",
+      "prompt": "A vintage 1960s travel postcard, front side, 3:2. Big bold caption at the bottom in playful display script: \"Greetings from LISBON!\" — each letter of LISBON contains a different illustrated scene of the city (yellow Tram 28, Belém Tower, tiled facade, sardine tin, fado guitar, Tagus bridge). Pastel-saturated tourist palette, slight halftone print, faded paper edges, thin white border around the entire card. No photographic elements — purely illustrated. Authentic mid-century travel poster style."
+    },
+    {
+      "id": 90,
+      "title": "Conference Lanyard Badge",
+      "category": "ad_creative",
+      "tags": [
+        "badge",
+        "conference",
+        "mockup"
+      ],
+      "aspect_ratio": "3:4",
+      "prompt": "A photorealistic conference lanyard and ID badge mockup hanging at chest height. Lanyard ribbon has small repeated text \"BUILD 2026 · BUILD 2026\". Badge front (PVC card in clear plastic holder): top dark band with \"BUILD 2026\" wordmark and \"OCT 14–16 · SAN FRANCISCO\". Mid: clear photo box showing a friendly portrait, beneath name \"Maya Chen\", role line \"SPEAKER · STAGE 2\", company \"Tinypaste\". Bottom QR code, tiny line \"badge #B-0247\". Soft daylight, slight blue lanyard color, conference floor blurred in the background."
+    },
+    {
+      "id": 91,
+      "title": "Wedding Invitation Suite",
+      "category": "stamp_postcard",
+      "tags": [
+        "wedding",
+        "invitation",
+        "stationery"
+      ],
+      "aspect_ratio": "4:5",
+      "prompt": "A flat-lay wedding invitation suite on a sage-green silk ribbon backdrop. Main invite card (cream cardstock, A6) with elegant centered typography: top monogram \"M & R\", title \"TOGETHER WITH THEIR FAMILIES\" in small caps, names \"MARIA & ROHAN\" in tall serif italic, line \"INVITE YOU TO CELEBRATE THEIR MARRIAGE\", then the date \"SATURDAY · THE FIFTEENTH OF JUNE · TWO THOUSAND TWENTY-SIX · AT FOUR IN THE AFTERNOON\", venue \"THE OLIVE GARDENS · BIG SUR · CALIFORNIA\". A smaller RSVP card and a details card lie beside it, plus a wax seal stamp with \"M&R\". Soft natural daylight, dreamy, editorial."
+    },
+    {
+      "id": 92,
+      "title": "Birthday Card Pop-Up",
+      "category": "ad_creative",
+      "tags": [
+        "card",
+        "papercraft",
+        "birthday"
+      ],
+      "aspect_ratio": "4:3",
+      "prompt": "A photograph of an open paper pop-up birthday card on a wooden desk. The 3D pop-up scene unfolds a tiny garden party with paper-cut balloons, a layered cake with three candles, and a small dachshund wearing a party hat. Front cover (visible folded down on the left) reads in playful hand-drawn type: \"HAPPY BIRTHDAY, HAZEL!\" with a tiny illustrated dachshund. Soft natural window light, faint shadow under the pop-up shapes, fiber-textured cardstock. Aspect 4:3."
+    },
+    {
+      "id": 93,
+      "title": "Holiday Spotify-Style Wrap Card",
+      "category": "ad_creative",
+      "tags": [
+        "wrap",
+        "year-review",
+        "music"
+      ],
+      "aspect_ratio": "9:16",
+      "prompt": "A vibrant year-in-review style mobile share card, 9:16 portrait, soft gradient background from coral to lavender. Top: small handle \"@maya · 2026 RECAP\". Hero text in chunky display sans: \"YOU WERE A TOP 0.4% LISTENER OF\" then on the next line, much larger: \"FUTURE TENSE\". Below: stats list in monospace — \"487 MINUTES\", \"TOP TRACK · NEON SUMMER\", \"TOP MOOD · NOSTALGIC\", \"NEW ARTISTS · 22\". Tiny scannable QR at the bottom with a \"share\" arrow icon. Crisp readable text, social-share aesthetic. Not branded."
+    },
+    {
+      "id": 94,
+      "title": "Resume / CV Layout",
+      "category": "ad_creative",
+      "tags": [
+        "resume",
+        "layout",
+        "document"
+      ],
+      "aspect_ratio": "1:1.414",
+      "prompt": "A clean two-column A4 resume layout, portrait 1:1.414, on subtle off-white paper. Left column (narrow, 30%): name \"MAYA CHEN\" in tall serif, title \"PRODUCT DESIGNER · SF\", contact lines (email, site, phone), small headshot in a circle, sections \"SKILLS\" and \"EDUCATION\" with concise lists. Right column (wide): \"EXPERIENCE\" with three plausible roles in reverse chronological order (Senior Designer 2023–present, Designer 2020–2023, Junior 2018–2020), each with company, location, dates, and 3 short bullet points. Generous whitespace, single accent line in deep navy, modern sans typography. Crisp, no real brand names."
+    },
+    {
+      "id": 95,
+      "title": "Hand-Drawn Treasure Map",
+      "category": "subway_map",
+      "tags": [
+        "fantasy",
+        "map",
+        "illustration"
+      ],
+      "aspect_ratio": "3:2",
+      "prompt": "A hand-drawn fantasy treasure map on aged parchment, slightly burnt edges, ink wash style. Compass rose top-right, dotted route from a small port labeled \"SALT HARBOR\" up across mountains \"BONESPIRE PEAKS\", through a forest \"THE WHISPERING WOOD\", around a swamp \"WIDOW'S MIRE\", to a marked X labeled \"HERE.\" beside a tiny skull. Small illustrations of sea monsters in the surrounding ocean, a kraken on the lower-left, a galleon labeled \"THE GILDED ACORN\", a tiny mermaid on a rock. Cartouche reads \"DRAWN BY HAND · YEAR OF THE COMET 2026\". Hand-lettered serif throughout, no modern fonts."
+    },
+    {
+      "id": 96,
+      "title": "Tarot Card — The Star",
+      "category": "merch_collectible",
+      "tags": [
+        "tarot",
+        "card",
+        "esoteric"
+      ],
+      "aspect_ratio": "2:3",
+      "prompt": "A high-end tarot card, portrait 2:3, in the style of an art-deco luxury deck. Center illustration: \"The Star\" — a serene woman kneeling by a still pool under a sky filled with eight pointed stars, pouring water from two silver vessels, one onto the land and one into the pool. Soft palette of midnight blue, rose gold, mint and cream. Ornate gold filigree border with art-deco geometric corners. Bottom card name plate \"THE STAR\" in elegant serif, top Roman numeral \"XVII\". Subtle holographic foil shimmer, slight texture suggesting card stock."
+    },
+    {
+      "id": 97,
+      "title": "Chinese Movie Poster — Wuxia",
+      "category": "movie_poster",
+      "tags": [
+        "chinese",
+        "wuxia",
+        "ink"
+      ],
+      "aspect_ratio": "2:3",
+      "prompt": "中国武侠电影海报，竖版 2:3。画面主体是一名身着白色长袍的剑客背对观众，立于山巅断崖，长发与衣袂被风吹起，远处群山云海翻腾，淡墨晕染。下方一支落笔未尽的墨剑横贯画面，墨迹溅起。顶部红色印章式落款竖排「江湖未远」，主标题居中以厚重楷书「问剑长安」四个大字，副标题小字「2026 暑期 · 全国上映」。底部一行小字制作人员表与发行方简体中文。整体风格融合电影概念海报、水墨画、武侠美学，画面气势磅礴，文字清晰无错别字。"
+    },
+    {
+      "id": 98,
+      "title": "Plant-Based Cookbook Spread",
+      "category": "magazine_cover",
+      "tags": [
+        "spread",
+        "cookbook",
+        "editorial"
+      ],
+      "aspect_ratio": "16:9",
+      "prompt": "A two-page open cookbook spread photographed top-down on a warm walnut tabletop. Left page: large hero photograph of a roasted heirloom carrot dish with herb yogurt, drizzle of olive oil, micro-herbs, soft side light, generous negative space. Right page: title \"ROOT, REIMAGINED\" in elegant serif, dek line \"slow-roasted heirloom carrots, lemon-thyme yogurt, dukkah\", chef byline \"by IRIS HOLLAND\", short intro paragraph in italic, then \"INGREDIENTS\" and \"METHOD\" columns with realistic content. Page numbers \"86\" and \"87\" in the outer corners. Subtle paper texture, a sprig of thyme placed across the gutter. 16:9 wide. Crisp legible text."
+    },
+    {
+      "id": 99,
+      "title": "Studio Pet Portrait — Corgi",
+      "category": "photorealistic_portrait",
+      "tags": [
+        "pet",
+        "studio",
+        "portrait"
+      ],
+      "aspect_ratio": "4:5",
+      "prompt": "A premium studio pet portrait of a tricolor Pembroke Welsh Corgi sitting upright on a polished walnut floor, looking slightly to the camera-right with a happy tongue-out expression. Seamless cream paper backdrop, soft large softbox key light from the upper-left, gentle rim light on the back, beautiful catchlights in both eyes. Visible individual fur strands, subtle ear fluff, healthy reflective coat, tiny dust motes in the air. Shallow depth of field on the eyes, 4:5 portrait. No text, no collar branding."
+    },
+    {
+      "id": 100,
+      "title": "Illustrated Workout Plan Card",
+      "category": "infographic_diagram",
+      "tags": [
+        "fitness",
+        "card",
+        "illustration"
+      ],
+      "aspect_ratio": "9:16",
+      "prompt": "A clean illustrated 7-day workout plan card, portrait 9:16, mint-green background with subtle paper grain. Top title in friendly rounded sans \"7-DAY MOBILITY RESET\". Seven horizontal rows, one per day, each with a small line illustration of the exercise on the left, day label \"MON\"…\"SUN\" in caps, and three concise lines: focus area (e.g. \"Hips & Glutes\"), key moves (e.g. \"90/90 · Couch Stretch · Glute Bridge\"), duration (e.g. \"15 min\"). Bottom-right small QR code labeled \"video guide\". Slight drop shadow on cards, clean layout, all text legible, no errors."
+    }
+  ]
+}
